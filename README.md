@@ -79,7 +79,7 @@
       <div style="text-align: center">
         <img src="https://photos.google.com/photo/AF1QipNHsVxjMBbt61Xz3QG2CTuqc8A_0ZRYd8xTxNwk" alt="image" width="150px" height="150px" style="border-radius: 50%;">
         <p><span class="name w3-padding w3-blue w3-round" style="font-weight: bold;">Hi, I'm Ajayi Ireoluwa!</span></p>
-        <p style="font-weight: bolder;">Check out my links!</p>
+        <p style="font-weight: bold;">Check out my links!</p>
       </div>
 
       <!-- Links section 1. Replace the # inside of the "" with your links. -->
